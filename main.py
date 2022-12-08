@@ -1,6 +1,6 @@
 import random
 
-chars = 'abcdefghikl'
+chars = 'abcdefghiklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('количество паролей?'+ "\n")
 length = input('длина пароля?'+ "\n")
 number = int(number)
